@@ -73,12 +73,12 @@ ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: daxunhuan.github.io
 
 # Sidebar settings
-sidebar: false # whether or not using Sidebar.
-# sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar: true # whether or not using Sidebar.
+sidebar-about-description: "海陆间大循环协会官方网站 <br> 海陆间大循环协会信息发布平台"
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+featured-tags: false # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
